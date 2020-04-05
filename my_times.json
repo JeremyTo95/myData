@@ -1,1712 +1,2054 @@
 [
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "08/12/2019",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:25.58",
+        "time": "0.2558",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "AS HERBLAY NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "09/11/2019",
         "city": "PONTOISE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:25.22",
+        "time": "0.2522",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "AS HERBLAY NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "12/10/2019",
         "city": "CERGY-PONTOISE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:24.93",
+        "time": "0.2493",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "AS HERBLAY NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "14/05/2017",
         "city": "MONTIGNY-LES-CORMEILLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:26.37",
+        "time": "0.2637",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "03/12/2016",
         "city": "BOBIGNY",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:27.09",
+        "time": "0.2709",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "12/11/2016",
         "city": "GARGES-LES-GONESSE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:27.27",
+        "time": "0.2727",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "19/06/2016",
         "city": "SAINT-LEU-LA-FORET",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:26.98",
+        "time": "0.2698",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "07/02/2016",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:27.30",
+        "time": "0.2730",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/12/2015",
         "city": "HERBLAY",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:27.41",
+        "time": "0.2741",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "22/11/2015",
         "city": "TAVERNY",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:27.87",
+        "time": "0.2787",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "08/02/2015",
         "city": "HERBLAY",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:29.23",
+        "time": "0.2923",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "07/12/2014",
         "city": "FOSSES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:29.80",
+        "time": "0.2980",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "22/06/2014",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:29.54",
+        "time": "0.2954",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "24/11/2013",
         "city": "EAUBONNE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:31.84",
+        "time": "0.3184",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "24/11/2012",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:32.52",
+        "time": "0.3252",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "14/10/2012",
         "city": "SAINT-LEU-LA-FORET",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:33.75",
+        "time": "0.3375",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "23/05/2010",
         "city": "MASSY",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:41.29",
+        "time": "0.4129",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "07/02/2010",
         "city": "BEAUMONT-SUR-OISE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:44.23",
+        "time": "0.4423",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "08/12/2019",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "00:55.66",
+        "time": "0.5566",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "AS HERBLAY NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "10/11/2019",
         "city": "PONTOISE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "00:56.41",
+        "time": "0.5641",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "AS HERBLAY NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/10/2019",
         "city": "CERGY-PONTOISE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "00:56.66",
+        "time": "0.5666",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "AS HERBLAY NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "14/05/2017",
         "city": "MONTIGNY-LES-CORMEILLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "00:57.37",
+        "time": "0.5737",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "04/12/2016",
         "city": "BOBIGNY",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "00:59.95",
+        "time": "0.5995",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/11/2016",
         "city": "BEZONS",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "00:59.37",
+        "time": "0.5937",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "05/11/2016",
         "city": "SAINT-LEU-LA-FORET",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "00:59.63",
+        "time": "0.5963",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "19/06/2016",
         "city": "SAINT-LEU-LA-FORET",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "00:59.09",
+        "time": "0.5909",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "10/04/2016",
         "city": "HERBLAY",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "00:59.26",
+        "time": "0.5926",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "07/02/2016",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "00:58.15",
+        "time": "0.5815",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "06/12/2015",
         "city": "BOBIGNY",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:00.26",
+        "time": "1.0026",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "22/11/2015",
         "city": "TAVERNY",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:00.02",
+        "time": "1.0002",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "08/11/2015",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:01.06",
+        "time": "1.0106",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "08/02/2015",
         "city": "HERBLAY",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:04.35",
+        "time": "1.0435",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "23/11/2014",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:05.99",
+        "time": "1.0599",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "21/06/2014",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:07.22",
+        "time": "1.0722",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "08/06/2014",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:05.09",
+        "time": "1.0509",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "09/03/2014",
         "city": "SOISY-SOUS-MONTMORENCY",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:08.96",
+        "time": "1.0896",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "24/11/2013",
         "city": "EAUBONNE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:10.60",
+        "time": "1.1060",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/10/2013",
         "city": "SAINT-LEU-LA-FORET",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:11.16",
+        "time": "1.1116",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "14/04/2013",
         "city": "HERBLAY",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:12.01",
+        "time": "1.1201",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "02/02/2013",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:13.88",
+        "time": "1.1388",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "27/01/2013",
         "city": "CERGY-PONTOISE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:14.79",
+        "time": "1.1479",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "25/11/2012",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:14.32",
+        "time": "1.1432",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "11/11/2012",
         "city": "CERGY-PONTOISE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:12.44",
+        "time": "1.1244",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "17/06/2012",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:17.14",
+        "time": "1.1714",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "01/04/2012",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:15.73",
+        "time": "1.1573",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "21/01/2012",
         "city": "BEZONS",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:17.40",
+        "time": "1.1740",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "04/12/2011",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:19.96",
+        "time": "1.1996",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "15/05/2011",
         "city": "BEAUMONT-SUR-OISE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:23.59",
+        "time": "1.2359",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "27/03/2011",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:26.28",
+        "time": "1.2628",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "22/01/2011",
         "city": "GARGES-LES-GONESSE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:24.73",
+        "time": "1.2473",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "18/01/2015",
         "city": "FRANCONVILLE-LA-GARENNE",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "02:28.27",
+        "time": "2.2827",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/06/2010",
         "city": "CERGY-PONTOISE",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "03:26.38",
+        "time": "3.2638",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "30/05/2010",
         "city": "SAINT-LEU-LA-FORET",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "03:33.12",
+        "time": "3.3312",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "07/02/2010",
         "city": "BEAUMONT-SUR-OISE",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "03:38.18",
+        "time": "3.3818",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/12/2009",
         "city": "EZANVILLE",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "03:57.69",
+        "time": "3.5769",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "17/01/2016",
         "city": "FRANCONVILLE-LA-GARENNE",
         "country": "FRANCE",
         "distance": "400",
         "sizePool": "25",
-        "time": "05:17.83",
+        "time": "5.1783",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "17/06/2012",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "400",
         "sizePool": "25",
-        "time": "05:59.73",
+        "time": "5.5973",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "05/12/2010",
         "city": "BEAUMONT-SUR-OISE",
         "country": "FRANCE",
         "distance": "400",
         "sizePool": "25",
-        "time": "07:03.98",
+        "time": "7.0398",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "24/02/2013",
         "city": "SOISY-SOUS-MONTMORENCY",
         "country": "FRANCE",
         "distance": "800",
         "sizePool": "25",
-        "time": "11:45.45",
+        "time": "11.4545",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "22/01/2012",
         "city": "BEZONS",
         "country": "FRANCE",
         "distance": "800",
         "sizePool": "25",
-        "time": "12:54.87",
+        "time": "12.5487",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "05/02/2011",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "800",
         "sizePool": "25",
-        "time": "13:12.94",
+        "time": "13.1294",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/11/2016",
         "city": "BEZONS",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:31.85",
+        "time": "0.3185",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "06/12/2015",
         "city": "BOBIGNY",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:33.47",
+        "time": "0.3347",
         "swim": "backstroke",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "22/11/2015",
         "city": "TAVERNY",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:31.96",
+        "time": "0.3196",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "08/02/2015",
         "city": "HERBLAY",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:35.31",
+        "time": "0.3531",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "07/12/2014",
         "city": "FOSSES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:34.87",
+        "time": "0.3487",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "23/11/2014",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:34.84",
+        "time": "0.3484",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "21/06/2014",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:35.85",
+        "time": "0.3585",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "24/11/2013",
         "city": "EAUBONNE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:36.99",
+        "time": "0.3699",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/10/2013",
         "city": "SAINT-LEU-LA-FORET",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:36.27",
+        "time": "0.3627",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "25/11/2012",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:39.19",
+        "time": "0.3919",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "16/06/2012",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:40.90",
+        "time": "0.4090",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "31/03/2012",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:39.77",
+        "time": "0.3977",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "10/03/2012",
         "city": "CERGY-PONTOISE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:40.34",
+        "time": "0.4034",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "23/01/2011",
         "city": "GARGES-LES-GONESSE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:45.41",
+        "time": "0.4541",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "11/04/2010",
         "city": "ERAGNY-SUR-OISE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:52.40",
+        "time": "0.5240",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "12/11/2016",
         "city": "GARGES-LES-GONESSE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:10.34",
+        "time": "1.1034",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "06/11/2016",
         "city": "SAINT-LEU-LA-FORET",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:11.22",
+        "time": "1.1122",
         "swim": "backstroke",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "10/04/2016",
         "city": "HERBLAY",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:12.95",
+        "time": "1.1295",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "07/02/2016",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:13.37",
+        "time": "1.1337",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "22/11/2015",
         "city": "TAVERNY",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:10.30",
+        "time": "1.1030",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "08/11/2015",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:12.43",
+        "time": "1.1243",
         "swim": "backstroke",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "09/03/2014",
         "city": "SOISY-SOUS-MONTMORENCY",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:20.24",
+        "time": "1.2024",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "10/11/2013",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:17.90",
+        "time": "1.1790",
         "swim": "backstroke",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "10/11/2013",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:18.40",
+        "time": "1.1840",
         "swim": "backstroke",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "14/04/2013",
         "city": "HERBLAY",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:22.55",
+        "time": "1.2255",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "03/02/2013",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:21.81",
+        "time": "1.2181",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "27/01/2013",
         "city": "CERGY-PONTOISE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:24.34",
+        "time": "1.2434",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "24/11/2012",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:22.07",
+        "time": "1.2207",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/05/2012",
         "city": "FRANCONVILLE-LA-GARENNE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:27.73",
+        "time": "1.2773",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "14/11/2010",
         "city": "EAUBONNE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:45.98",
+        "time": "1.4598",
         "swim": "backstroke",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "11/11/2017",
         "city": "SAINT-LEU-LA-FORET",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "02:37.34",
+        "time": "2.3734",
         "swim": "backstroke",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "05/11/2016",
         "city": "SAINT-LEU-LA-FORET",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "02:33.02",
+        "time": "2.3302",
         "swim": "backstroke",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "17/01/2016",
         "city": "FRANCONVILLE-LA-GARENNE",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "02:40.45",
+        "time": "2.4045",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "08/11/2015",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "02:42.67",
+        "time": "2.4267",
         "swim": "backstroke",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "18/01/2015",
         "city": "FRANCONVILLE-LA-GARENNE",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "02:47.26",
+        "time": "2.4726",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "09/11/2014",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "02:52.47",
+        "time": "2.5247",
         "swim": "backstroke",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "06/11/2011",
         "city": "EAUBONNE",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "03:19.88",
+        "time": "3.1988",
         "swim": "backstroke",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "16/06/2012",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:48.35",
+        "time": "0.4835",
         "swim": "breaststroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "10/03/2012",
         "city": "CERGY-PONTOISE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:49.95",
+        "time": "0.4995",
         "swim": "breaststroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "26/03/2011",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:55.76",
+        "time": "0.5576",
         "swim": "breaststroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "30/05/2010",
         "city": "SAINT-LEU-LA-FORET",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "01:06.13",
+        "time": "1.0613",
         "swim": "breaststroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/12/2009",
         "city": "EZANVILLE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "01:03.72",
+        "time": "1.0372",
         "swim": "breaststroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "14/10/2012",
         "city": "SAINT-LEU-LA-FOReT",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:47.07",
+        "time": "1.4707",
         "swim": "breaststroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/10/2019",
         "city": "CERGY-PONTOISE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:29.36",
+        "time": "0.2936",
         "swim": "butterfly",
-        "level": "REG"
+        "level": "REG",
+        "club": "AS HERBLAY NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "19/06/2016",
         "city": "SAINT-LEU-LA-FORET",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:30.44",
+        "time": "0.3044",
         "swim": "butterfly",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/12/2015",
         "city": "HERBLAY",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:33.08",
+        "time": "0.3308",
         "swim": "butterfly",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "17/06/2012",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:39.94",
+        "time": "0.3994",
         "swim": "butterfly",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "31/03/2012",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:41.78",
+        "time": "0.4178",
         "swim": "butterfly",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "21/01/2012",
         "city": "BEZONS",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:43.42",
+        "time": "0.4342",
         "swim": "butterfly",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "04/12/2011",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:41.35",
+        "time": "0.4135",
         "swim": "butterfly",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "06/02/2011",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:47.08",
+        "time": "0.4708",
         "swim": "butterfly",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/06/2010",
         "city": "CERGY-PONTOISE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:54.89",
+        "time": "0.5489",
         "swim": "butterfly",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "30/05/2010",
         "city": "SAINT-LEU-LA-FORET",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "25",
-        "time": "00:50.89",
+        "time": "0.5089",
         "swim": "butterfly",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "14/10/2012",
         "city": "SAINT-LEU-LA-FORET",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:35.51",
+        "time": "1.3551",
         "swim": "butterfly",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/12/2015",
         "city": "HERBLAY",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:14.01",
+        "time": "1.1401",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "27/01/2013",
         "city": "CERGY-PONTOISE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:24.21",
+        "time": "1.2421",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "11/04/2010",
         "city": "ERAGNY-SUR-OISE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "25",
-        "time": "01:54.28",
+        "time": "1.5428",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "17/01/2016",
         "city": "FRANCONVILLE-LA-GARENNE",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "02:45.15",
+        "time": "2.4515",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "18/01/2015",
         "city": "FRANCONVILLE-LA-GARENNE",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "02:58.10",
+        "time": "2.5810",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "24/11/2012",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "03:05.66",
+        "time": "3.0566",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "16/06/2012",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "03:13.30",
+        "time": "3.1330",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/05/2012",
         "city": "FRANCONVILLE-LA-GARENNE",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "03:14.59",
+        "time": "3.1459",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "04/12/2011",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "03:21.83",
+        "time": "3.2183",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "15/05/2011",
         "city": "BEAUMONT-SUR-OISE",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "03:29.57",
+        "time": "3.2957",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "05/12/2010",
         "city": "BEAUMONT-SUR-OISE",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "25",
-        "time": "03:47.18",
+        "time": "3.4718",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "24/02/2013",
         "city": "SOISY-SOUS-MONTMORENCY",
         "country": "FRANCE",
         "distance": "400",
         "sizePool": "25",
-        "time": "06:31.11",
+        "time": "6.3111",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "11/03/2012",
         "city": "CERGY-PONTOISE",
         "country": "FRANCE",
         "distance": "400",
         "sizePool": "25",
-        "time": "07:04.85",
+        "time": "7.0485",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "26/03/2011",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "400",
         "sizePool": "25",
-        "time": "07:31.18",
+        "time": "7.3118",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "06/02/2011",
         "city": "ARGENTEUIL",
         "country": "FRANCE",
         "distance": "400",
         "sizePool": "25",
-        "time": "07:41.49",
+        "time": "7.4149",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "29/02/2020",
         "city": "LILLE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:26.75",
+        "time": "0.2675",
         "swim": "freestyle",
-        "level": "NAT"
+        "level": "NAT",
+        "club": "AS HERBLAY NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "11/03/2017",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:28.27",
+        "time": "0.2827",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "11/06/2016",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:27.30",
+        "time": "0.2730",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "21/05/2016",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:27.07",
+        "time": "0.2707",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/06/2015",
         "city": "PARIS",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:28.39",
+        "time": "0.2839",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "10/05/2015",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:28.43",
+        "time": "0.2843",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "11/05/2014",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:30.93",
+        "time": "0.3093",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "02/06/2013",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:31.84",
+        "time": "0.3184",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/04/2013",
         "city": "COLOMBES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:33.49",
+        "time": "0.3349",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "06/05/2012",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:35.82",
+        "time": "0.3582",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "01/03/2020",
         "city": "LILLE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "00:58.47",
+        "time": "0.5847",
         "swim": "freestyle",
-        "level": "NAT"
+        "level": "NAT",
+        "club": "AS HERBLAY NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "26/01/2020",
         "city": "SAINT-GERMAIN-EN-LAYE",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "00:57.79",
+        "time": "0.5779",
         "swim": "freestyle",
-        "level": "NAT"
+        "level": "NAT",
+        "club": "AS HERBLAY NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "22/12/2019",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "00:57.61",
+        "time": "0.5761",
         "swim": "freestyle",
-        "level": "NAT"
+        "level": "NAT",
+        "club": "AS HERBLAY NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "01/07/2017",
         "city": "PARIS",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "01:01.14",
+        "time": "1.0114",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "12/03/2017",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "01:00.00",
+        "time": "1.0000",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "12/06/2016",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "01:00.79",
+        "time": "1.0079",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "22/05/2016",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "01:00.38",
+        "time": "1.0038",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "10/05/2015",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "01:04.51",
+        "time": "1.0451",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "11/05/2014",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "01:11.63",
+        "time": "1.1163",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "02/06/2013",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "01:12.79",
+        "time": "1.1279",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "06/05/2012",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "01:18.74",
+        "time": "1.1874",
         "swim": "freestyle",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "07/04/2012",
         "city": "VERSAILLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "01:17.27",
+        "time": "1.1727",
         "swim": "freestyle",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "12/03/2017",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:33.84",
+        "time": "0.3384",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "22/05/2016",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:33.68",
+        "time": "0.3368",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "10/05/2015",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:34.12",
+        "time": "0.3412",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "10/05/2015",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:34.37",
+        "time": "0.3437",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "11/05/2014",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:36.50",
+        "time": "0.3650",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "11/05/2014",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:37.23",
+        "time": "0.3723",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "02/06/2013",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:37.24",
+        "time": "0.3724",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/04/2013",
         "city": "COLOMBES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:41.29",
+        "time": "0.4129",
         "swim": "backstroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "01/06/2013",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:44.82",
+        "time": "0.4482",
         "swim": "breaststroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "01/06/2013",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:45.98",
+        "time": "0.4598",
         "swim": "breaststroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/04/2013",
         "city": "COLOMBES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:45.80",
+        "time": "0.4580",
         "swim": "breaststroke",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "08/04/2012",
         "city": "VERSAILLES",
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "01:57.57",
+        "time": "1.5757",
         "swim": "breaststroke",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "01/03/2020",
         "city": "LILLE",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:30.59",
+        "time": "0.3059",
         "swim": "butterfly",
-        "level": "NAT"
+        "level": "NAT",
+        "club": "AS HERBLAY NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "13/04/2013",
         "city": "COLOMBES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:39.10",
+        "time": "0.3910",
         "swim": "butterfly",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "06/05/2012",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "00:43.99",
+        "time": "0.4399",
         "swim": "butterfly",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "11/05/2014",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "50",
-        "time": "03:02.66",
+        "time": "3.0266",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "02/06/2013",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "50",
-        "time": "03:01.22",
+        "time": "3.0122",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "06/05/2012",
         "city": "SARCELLES",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "50",
-        "time": "03:25.65",
+        "time": "3.2565",
         "swim": "IM",
-        "level": "DEP"
+        "level": "DEP",
+        "club": "ETOILE SAINT-LEU NATATION"
     },
     {
+        "id": "36e55831-4635-4ee0-8aca-353b5edc42be",
         "date": "08/04/2012",
         "city": "VERSAILLES",
         "country": "FRANCE",
         "distance": "200",
         "sizePool": "50",
-        "time": "03:27.36",
+        "time": "3.2736",
         "swim": "IM",
-        "level": "REG"
+        "level": "REG",
+        "club": "ETOILE SAINT-LEU NATATION"
     }
 ]
