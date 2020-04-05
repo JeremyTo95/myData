@@ -1,0 +1,1712 @@
+[
+    {
+        "date": "08/12/2019",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:25.58",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "09/11/2019",
+        "city": "PONTOISE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:25.22",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "12/10/2019",
+        "city": "CERGY-PONTOISE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:24.93",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "14/05/2017",
+        "city": "MONTIGNY-LES-CORMEILLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:26.37",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "03/12/2016",
+        "city": "BOBIGNY",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:27.09",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "12/11/2016",
+        "city": "GARGES-LES-GONESSE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:27.27",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "19/06/2016",
+        "city": "SAINT-LEU-LA-FORET",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:26.98",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "07/02/2016",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:27.30",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "13/12/2015",
+        "city": "HERBLAY",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:27.41",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "22/11/2015",
+        "city": "TAVERNY",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:27.87",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "08/02/2015",
+        "city": "HERBLAY",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:29.23",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "07/12/2014",
+        "city": "FOSSES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:29.80",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "22/06/2014",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:29.54",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "24/11/2013",
+        "city": "EAUBONNE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:31.84",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "24/11/2012",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:32.52",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "14/10/2012",
+        "city": "SAINT-LEU-LA-FORET",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:33.75",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "23/05/2010",
+        "city": "MASSY",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:41.29",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "07/02/2010",
+        "city": "BEAUMONT-SUR-OISE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:44.23",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "08/12/2019",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "00:55.66",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "10/11/2019",
+        "city": "PONTOISE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "00:56.41",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "13/10/2019",
+        "city": "CERGY-PONTOISE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "00:56.66",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "14/05/2017",
+        "city": "MONTIGNY-LES-CORMEILLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "00:57.37",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "04/12/2016",
+        "city": "BOBIGNY",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "00:59.95",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "13/11/2016",
+        "city": "BEZONS",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "00:59.37",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "05/11/2016",
+        "city": "SAINT-LEU-LA-FORET",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "00:59.63",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "19/06/2016",
+        "city": "SAINT-LEU-LA-FORET",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "00:59.09",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "10/04/2016",
+        "city": "HERBLAY",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "00:59.26",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "07/02/2016",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "00:58.15",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "06/12/2015",
+        "city": "BOBIGNY",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:00.26",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "22/11/2015",
+        "city": "TAVERNY",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:00.02",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "08/11/2015",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:01.06",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "08/02/2015",
+        "city": "HERBLAY",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:04.35",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "23/11/2014",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:05.99",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "21/06/2014",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:07.22",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "08/06/2014",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:05.09",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "09/03/2014",
+        "city": "SOISY-SOUS-MONTMORENCY",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:08.96",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "24/11/2013",
+        "city": "EAUBONNE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:10.60",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "13/10/2013",
+        "city": "SAINT-LEU-LA-FORET",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:11.16",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "14/04/2013",
+        "city": "HERBLAY",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:12.01",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "02/02/2013",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:13.88",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "27/01/2013",
+        "city": "CERGY-PONTOISE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:14.79",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "25/11/2012",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:14.32",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "11/11/2012",
+        "city": "CERGY-PONTOISE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:12.44",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "17/06/2012",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:17.14",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "01/04/2012",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:15.73",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "21/01/2012",
+        "city": "BEZONS",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:17.40",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "04/12/2011",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:19.96",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "15/05/2011",
+        "city": "BEAUMONT-SUR-OISE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:23.59",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "27/03/2011",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:26.28",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "22/01/2011",
+        "city": "GARGES-LES-GONESSE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:24.73",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "18/01/2015",
+        "city": "FRANCONVILLE-LA-GARENNE",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "02:28.27",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "13/06/2010",
+        "city": "CERGY-PONTOISE",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "03:26.38",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "30/05/2010",
+        "city": "SAINT-LEU-LA-FORET",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "03:33.12",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "07/02/2010",
+        "city": "BEAUMONT-SUR-OISE",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "03:38.18",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "13/12/2009",
+        "city": "EZANVILLE",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "03:57.69",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "17/01/2016",
+        "city": "FRANCONVILLE-LA-GARENNE",
+        "country": "FRANCE",
+        "distance": "400",
+        "sizePool": "25",
+        "time": "05:17.83",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "17/06/2012",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "400",
+        "sizePool": "25",
+        "time": "05:59.73",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "05/12/2010",
+        "city": "BEAUMONT-SUR-OISE",
+        "country": "FRANCE",
+        "distance": "400",
+        "sizePool": "25",
+        "time": "07:03.98",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "24/02/2013",
+        "city": "SOISY-SOUS-MONTMORENCY",
+        "country": "FRANCE",
+        "distance": "800",
+        "sizePool": "25",
+        "time": "11:45.45",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "22/01/2012",
+        "city": "BEZONS",
+        "country": "FRANCE",
+        "distance": "800",
+        "sizePool": "25",
+        "time": "12:54.87",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "05/02/2011",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "800",
+        "sizePool": "25",
+        "time": "13:12.94",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "13/11/2016",
+        "city": "BEZONS",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:31.85",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "06/12/2015",
+        "city": "BOBIGNY",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:33.47",
+        "swim": "backstroke",
+        "level": "REG"
+    },
+    {
+        "date": "22/11/2015",
+        "city": "TAVERNY",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:31.96",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "08/02/2015",
+        "city": "HERBLAY",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:35.31",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "07/12/2014",
+        "city": "FOSSES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:34.87",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "23/11/2014",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:34.84",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "21/06/2014",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:35.85",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "24/11/2013",
+        "city": "EAUBONNE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:36.99",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "13/10/2013",
+        "city": "SAINT-LEU-LA-FORET",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:36.27",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "25/11/2012",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:39.19",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "16/06/2012",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:40.90",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "31/03/2012",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:39.77",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "10/03/2012",
+        "city": "CERGY-PONTOISE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:40.34",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "23/01/2011",
+        "city": "GARGES-LES-GONESSE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:45.41",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "11/04/2010",
+        "city": "ERAGNY-SUR-OISE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:52.40",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "12/11/2016",
+        "city": "GARGES-LES-GONESSE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:10.34",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "06/11/2016",
+        "city": "SAINT-LEU-LA-FORET",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:11.22",
+        "swim": "backstroke",
+        "level": "REG"
+    },
+    {
+        "date": "10/04/2016",
+        "city": "HERBLAY",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:12.95",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "07/02/2016",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:13.37",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "22/11/2015",
+        "city": "TAVERNY",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:10.30",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "08/11/2015",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:12.43",
+        "swim": "backstroke",
+        "level": "REG"
+    },
+    {
+        "date": "09/03/2014",
+        "city": "SOISY-SOUS-MONTMORENCY",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:20.24",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "10/11/2013",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:17.90",
+        "swim": "backstroke",
+        "level": "REG"
+    },
+    {
+        "date": "10/11/2013",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:18.40",
+        "swim": "backstroke",
+        "level": "REG"
+    },
+    {
+        "date": "14/04/2013",
+        "city": "HERBLAY",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:22.55",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "03/02/2013",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:21.81",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "27/01/2013",
+        "city": "CERGY-PONTOISE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:24.34",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "24/11/2012",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:22.07",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "13/05/2012",
+        "city": "FRANCONVILLE-LA-GARENNE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:27.73",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "14/11/2010",
+        "city": "EAUBONNE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:45.98",
+        "swim": "backstroke",
+        "level": "REG"
+    },
+    {
+        "date": "11/11/2017",
+        "city": "SAINT-LEU-LA-FORET",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "02:37.34",
+        "swim": "backstroke",
+        "level": "REG"
+    },
+    {
+        "date": "05/11/2016",
+        "city": "SAINT-LEU-LA-FORET",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "02:33.02",
+        "swim": "backstroke",
+        "level": "REG"
+    },
+    {
+        "date": "17/01/2016",
+        "city": "FRANCONVILLE-LA-GARENNE",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "02:40.45",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "08/11/2015",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "02:42.67",
+        "swim": "backstroke",
+        "level": "REG"
+    },
+    {
+        "date": "18/01/2015",
+        "city": "FRANCONVILLE-LA-GARENNE",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "02:47.26",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "09/11/2014",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "02:52.47",
+        "swim": "backstroke",
+        "level": "REG"
+    },
+    {
+        "date": "06/11/2011",
+        "city": "EAUBONNE",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "03:19.88",
+        "swim": "backstroke",
+        "level": "REG"
+    },
+    {
+        "date": "16/06/2012",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:48.35",
+        "swim": "breaststroke",
+        "level": "DEP"
+    },
+    {
+        "date": "10/03/2012",
+        "city": "CERGY-PONTOISE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:49.95",
+        "swim": "breaststroke",
+        "level": "DEP"
+    },
+    {
+        "date": "26/03/2011",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:55.76",
+        "swim": "breaststroke",
+        "level": "DEP"
+    },
+    {
+        "date": "30/05/2010",
+        "city": "SAINT-LEU-LA-FORET",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "01:06.13",
+        "swim": "breaststroke",
+        "level": "DEP"
+    },
+    {
+        "date": "13/12/2009",
+        "city": "EZANVILLE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "01:03.72",
+        "swim": "breaststroke",
+        "level": "DEP"
+    },
+    {
+        "date": "14/10/2012",
+        "city": "SAINT-LEU-LA-FOReT",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:47.07",
+        "swim": "breaststroke",
+        "level": "DEP"
+    },
+    {
+        "date": "13/10/2019",
+        "city": "CERGY-PONTOISE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:29.36",
+        "swim": "butterfly",
+        "level": "REG"
+    },
+    {
+        "date": "19/06/2016",
+        "city": "SAINT-LEU-LA-FORET",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:30.44",
+        "swim": "butterfly",
+        "level": "DEP"
+    },
+    {
+        "date": "13/12/2015",
+        "city": "HERBLAY",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:33.08",
+        "swim": "butterfly",
+        "level": "DEP"
+    },
+    {
+        "date": "17/06/2012",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:39.94",
+        "swim": "butterfly",
+        "level": "DEP"
+    },
+    {
+        "date": "31/03/2012",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:41.78",
+        "swim": "butterfly",
+        "level": "DEP"
+    },
+    {
+        "date": "21/01/2012",
+        "city": "BEZONS",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:43.42",
+        "swim": "butterfly",
+        "level": "DEP"
+    },
+    {
+        "date": "04/12/2011",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:41.35",
+        "swim": "butterfly",
+        "level": "DEP"
+    },
+    {
+        "date": "06/02/2011",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:47.08",
+        "swim": "butterfly",
+        "level": "DEP"
+    },
+    {
+        "date": "13/06/2010",
+        "city": "CERGY-PONTOISE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:54.89",
+        "swim": "butterfly",
+        "level": "DEP"
+    },
+    {
+        "date": "30/05/2010",
+        "city": "SAINT-LEU-LA-FORET",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "25",
+        "time": "00:50.89",
+        "swim": "butterfly",
+        "level": "DEP"
+    },
+    {
+        "date": "14/10/2012",
+        "city": "SAINT-LEU-LA-FORET",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:35.51",
+        "swim": "butterfly",
+        "level": "DEP"
+    },
+    {
+        "date": "13/12/2015",
+        "city": "HERBLAY",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:14.01",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "27/01/2013",
+        "city": "CERGY-PONTOISE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:24.21",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "11/04/2010",
+        "city": "ERAGNY-SUR-OISE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "25",
+        "time": "01:54.28",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "17/01/2016",
+        "city": "FRANCONVILLE-LA-GARENNE",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "02:45.15",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "18/01/2015",
+        "city": "FRANCONVILLE-LA-GARENNE",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "02:58.10",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "24/11/2012",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "03:05.66",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "16/06/2012",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "03:13.30",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "13/05/2012",
+        "city": "FRANCONVILLE-LA-GARENNE",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "03:14.59",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "04/12/2011",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "03:21.83",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "15/05/2011",
+        "city": "BEAUMONT-SUR-OISE",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "03:29.57",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "05/12/2010",
+        "city": "BEAUMONT-SUR-OISE",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "25",
+        "time": "03:47.18",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "24/02/2013",
+        "city": "SOISY-SOUS-MONTMORENCY",
+        "country": "FRANCE",
+        "distance": "400",
+        "sizePool": "25",
+        "time": "06:31.11",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "11/03/2012",
+        "city": "CERGY-PONTOISE",
+        "country": "FRANCE",
+        "distance": "400",
+        "sizePool": "25",
+        "time": "07:04.85",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "26/03/2011",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "400",
+        "sizePool": "25",
+        "time": "07:31.18",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "06/02/2011",
+        "city": "ARGENTEUIL",
+        "country": "FRANCE",
+        "distance": "400",
+        "sizePool": "25",
+        "time": "07:41.49",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "29/02/2020",
+        "city": "LILLE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:26.75",
+        "swim": "freestyle",
+        "level": "NAT"
+    },
+    {
+        "date": "11/03/2017",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:28.27",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "11/06/2016",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:27.30",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "21/05/2016",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:27.07",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "13/06/2015",
+        "city": "PARIS",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:28.39",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "10/05/2015",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:28.43",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "11/05/2014",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:30.93",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "02/06/2013",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:31.84",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "13/04/2013",
+        "city": "COLOMBES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:33.49",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "06/05/2012",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:35.82",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "01/03/2020",
+        "city": "LILLE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "50",
+        "time": "00:58.47",
+        "swim": "freestyle",
+        "level": "NAT"
+    },
+    {
+        "date": "26/01/2020",
+        "city": "SAINT-GERMAIN-EN-LAYE",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "50",
+        "time": "00:57.79",
+        "swim": "freestyle",
+        "level": "NAT"
+    },
+    {
+        "date": "22/12/2019",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "50",
+        "time": "00:57.61",
+        "swim": "freestyle",
+        "level": "NAT"
+    },
+    {
+        "date": "01/07/2017",
+        "city": "PARIS",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "50",
+        "time": "01:01.14",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "12/03/2017",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "50",
+        "time": "01:00.00",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "12/06/2016",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "50",
+        "time": "01:00.79",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "22/05/2016",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "50",
+        "time": "01:00.38",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "10/05/2015",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "50",
+        "time": "01:04.51",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "11/05/2014",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "50",
+        "time": "01:11.63",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "02/06/2013",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "50",
+        "time": "01:12.79",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "06/05/2012",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "50",
+        "time": "01:18.74",
+        "swim": "freestyle",
+        "level": "DEP"
+    },
+    {
+        "date": "07/04/2012",
+        "city": "VERSAILLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "50",
+        "time": "01:17.27",
+        "swim": "freestyle",
+        "level": "REG"
+    },
+    {
+        "date": "12/03/2017",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:33.84",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "22/05/2016",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:33.68",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "10/05/2015",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:34.12",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "10/05/2015",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:34.37",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "11/05/2014",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:36.50",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "11/05/2014",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:37.23",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "02/06/2013",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:37.24",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "13/04/2013",
+        "city": "COLOMBES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:41.29",
+        "swim": "backstroke",
+        "level": "DEP"
+    },
+    {
+        "date": "01/06/2013",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:44.82",
+        "swim": "breaststroke",
+        "level": "DEP"
+    },
+    {
+        "date": "01/06/2013",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:45.98",
+        "swim": "breaststroke",
+        "level": "DEP"
+    },
+    {
+        "date": "13/04/2013",
+        "city": "COLOMBES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:45.80",
+        "swim": "breaststroke",
+        "level": "DEP"
+    },
+    {
+        "date": "08/04/2012",
+        "city": "VERSAILLES",
+        "country": "FRANCE",
+        "distance": "100",
+        "sizePool": "50",
+        "time": "01:57.57",
+        "swim": "breaststroke",
+        "level": "REG"
+    },
+    {
+        "date": "01/03/2020",
+        "city": "LILLE",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:30.59",
+        "swim": "butterfly",
+        "level": "NAT"
+    },
+    {
+        "date": "13/04/2013",
+        "city": "COLOMBES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:39.10",
+        "swim": "butterfly",
+        "level": "DEP"
+    },
+    {
+        "date": "06/05/2012",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "50",
+        "sizePool": "50",
+        "time": "00:43.99",
+        "swim": "butterfly",
+        "level": "DEP"
+    },
+    {
+        "date": "11/05/2014",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "50",
+        "time": "03:02.66",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "02/06/2013",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "50",
+        "time": "03:01.22",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "06/05/2012",
+        "city": "SARCELLES",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "50",
+        "time": "03:25.65",
+        "swim": "IM",
+        "level": "DEP"
+    },
+    {
+        "date": "08/04/2012",
+        "city": "VERSAILLES",
+        "country": "FRANCE",
+        "distance": "200",
+        "sizePool": "50",
+        "time": "03:27.36",
+        "swim": "IM",
+        "level": "REG"
+    }
+]
