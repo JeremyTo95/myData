@@ -799,7 +799,7 @@
         "distance": "50",
         "sizePool": "25",
         "time": "39.1",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "DEP",
         "club": "AS HERBLAY NATATION"
     },
@@ -811,7 +811,7 @@
         "distance": "50",
         "sizePool": "25",
         "time": "41.0",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "REG",
         "club": "AS HERBLAY NATATION"
     },
@@ -823,7 +823,7 @@
         "distance": "50",
         "sizePool": "25",
         "time": "41.36",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "DEP",
         "club": "AS HERBLAY NATATION"
     },
@@ -835,7 +835,7 @@
         "distance": "50",
         "sizePool": "25",
         "time": "46.6",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "DEP",
         "club": "AS HERBLAY NATATION"
     },
@@ -847,7 +847,7 @@
         "distance": "50",
         "sizePool": "25",
         "time": "46.84",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "DEP",
         "club": "AS HERBLAY NATATION"
     },
@@ -859,7 +859,7 @@
         "distance": "100",
         "sizePool": "25",
         "time": "77.76",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "DEP",
         "club": "AS HERBLAY NATATION"
     },
@@ -871,7 +871,7 @@
         "distance": "100",
         "sizePool": "25",
         "time": "89.63",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "REG",
         "club": "AS HERBLAY NATATION"
     },
@@ -883,7 +883,7 @@
         "distance": "100",
         "sizePool": "25",
         "time": "91.38",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "DEP",
         "club": "AS HERBLAY NATATION"
     },
@@ -895,7 +895,7 @@
         "distance": "100",
         "sizePool": "25",
         "time": "100.91",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "REG",
         "club": "AS HERBLAY NATATION"
     },
@@ -1806,7 +1806,7 @@
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "33.71",
+        "time": "34.79",
         "swim": "backstroke",
         "level": "REG",
         "club": "AS HERBLAY NATATION"
@@ -1818,7 +1818,7 @@
         "country": "FRANCE",
         "distance": "50",
         "sizePool": "50",
-        "time": "34.79",
+        "time": "33.71",
         "swim": "backstroke",
         "level": "REG",
         "club": "AS HERBLAY NATATION"
@@ -1866,7 +1866,7 @@
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "68.42",
+        "time": "69.39",
         "swim": "backstroke",
         "level": "NAT",
         "club": "AS HERBLAY NATATION"
@@ -1878,7 +1878,7 @@
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "69.39",
+        "time": "68.42",
         "swim": "backstroke",
         "level": "NAT",
         "club": "AS HERBLAY NATATION"
@@ -1962,7 +1962,7 @@
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "79.06",
+        "time": "79.59",
         "swim": "backstroke",
         "level": "REG",
         "club": "AS HERBLAY NATATION"
@@ -1974,7 +1974,7 @@
         "country": "FRANCE",
         "distance": "100",
         "sizePool": "50",
-        "time": "79.59",
+        "time": "79.06",
         "swim": "backstroke",
         "level": "REG",
         "club": "AS HERBLAY NATATION"
@@ -1999,7 +1999,7 @@
         "distance": "50",
         "sizePool": "50",
         "time": "41.26",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "DEP",
         "club": "AS HERBLAY NATATION"
     },
@@ -2011,7 +2011,7 @@
         "distance": "50",
         "sizePool": "50",
         "time": "42.0",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "DEP",
         "club": "AS HERBLAY NATATION"
     },
@@ -2023,7 +2023,7 @@
         "distance": "100",
         "sizePool": "50",
         "time": "89.77",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "DEP",
         "club": "AS HERBLAY NATATION"
     },
@@ -2035,7 +2035,7 @@
         "distance": "100",
         "sizePool": "50",
         "time": "90.19",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "DEP",
         "club": "AS HERBLAY NATATION"
     },
@@ -2047,7 +2047,7 @@
         "distance": "100",
         "sizePool": "50",
         "time": "92.64",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "REG",
         "club": "AS HERBLAY NATATION"
     },
@@ -2059,7 +2059,7 @@
         "distance": "200",
         "sizePool": "50",
         "time": "194.8",
-        "swim": "breststroke",
+        "swim": "breaststroke",
         "level": "DEP",
         "club": "AS HERBLAY NATATION"
     },
