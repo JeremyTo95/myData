@@ -2,43 +2,43 @@
     {
         "name"    : "GitHub", 
         "link"    : "https://github.com/",
-        "logoPath": "assets/linksLogo/github.png",
+        "logoPath": "../../back/assets/linksLogo/github.png",
         "logoName": "logoGitHub"
     },
     {
         "name"    : "YouTube", 
         "link"    : "https://www.youtube.com/feed/subscriptions",
-        "logoPath": "assets/linksLogo/youtube.png",
+        "logoPath": "../../back/assets/linksLogo/youtube.png",
         "logoName": "logoYouTube"
     },
     {
         "name"    : "WhatsApp", 
         "link"    : "https://web.whatsapp.com/",
-        "logoPath": "assets/linksLogo/whatsapp.png",
+        "logoPath": "../../back/assets/linksLogo/whatsapp.png",
         "logoName": "logoWhatApp"
     },
     {
         "name"    : "Drive", 
         "link"    : "https://drive.google.com/drive/my-drive",
-        "logoPath": "assets/linksLogo/drive.png",
+        "logoPath": "../../back/assets/linksLogo/drive.png",
         "logoName": "logoDrive"
     },
     {
         "name"    : "Office", 
         "link"    : "https://www.office.com/?auth=2&home=1",
-        "logoPath": "assets/linksLogo/office.png",
+        "logoPath": "../../back/assets/linksLogo/office.png",
         "logoName": "logoOffice"
     },
     {
         "name"    : "Hyperplanning", 
         "link"    : "https://edt.esiea.fr/etudiant",
-        "logoPath": "assets/linksLogo/hyperplanning.png",
+        "logoPath": "../../back/assets/linksLogo/hyperplanning.png",
         "logoName": "logoHyperplanning"
     },
     {
         "name"    : "Learning", 
         "link"    : "https://learning.esiea.fr/",
-        "logoPath": "assets/linksLogo/learning.png",
+        "logoPath": "../../back/assets/linksLogo/learning.png",
         "logoName": "logoLearning"
     }
 ]
